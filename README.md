@@ -1,4 +1,4 @@
 # Retrowave
 
-Minimalistic retrowave theme inspired from Field Lights and Ayu Mirage
+Minimalistic Retrowave Vscode theme inspired from Field Lights and Ayu Mirage
 
